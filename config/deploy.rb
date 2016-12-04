@@ -1,4 +1,4 @@
-lock '3.6.1'
+lock '3.6.0'
 
 # デプロイするアプリケーション名
 set :application, 'portfolio'
