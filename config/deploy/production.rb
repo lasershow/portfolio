@@ -40,7 +40,7 @@ server '150.95.145.179', user: 'cent', roles: %w{app db web}
 #    auth_methods: %w(password)
 #  }
 
-set :ssh_options, keys: '~/.ssh/aws'
+# set :ssh_options, keys: '~/.ssh/aws'
 
 #
 # The server-based syntax can be used to override options:
